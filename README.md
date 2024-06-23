@@ -8,10 +8,10 @@ This is a simple notes app built with React and Django.
 
 #Installation
 1. Clone the repository
-   ```bash
+ ```bash
    git clone https://github.com/LondheShubham153/django-notes-app.git
-   ```
-2. Build the app
+ ```
+3. Build the app
 ```bash
   docker build -t notes-app .
 ```
